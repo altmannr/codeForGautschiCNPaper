@@ -4,6 +4,9 @@ How to use the Code...
 Gautschi-type and implicit-explicit integrators for constrained wave equations 
 by R. Altmann, B. Dörich, C. Zimmer
 
+**Used Matlab version:
+R2023a
+
 **Step 1: run experiments
 --> run_kineticWave.m
 this will run the Euler/CN/Gautschi schemes and compare it to a reference solution
